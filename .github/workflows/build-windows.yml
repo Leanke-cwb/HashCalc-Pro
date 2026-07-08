@@ -30,7 +30,7 @@ jobs:
             --onefile `
             --windowed `
             --name "HashCalc Pro" `
-            --icon icone.ico `
+            --icon icone.icns `
             --hidden-import hash_utils `
             --hidden-import certidao_hash `
             main.py
